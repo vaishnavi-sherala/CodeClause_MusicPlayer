@@ -1,4 +1,4 @@
-
+"""Vaishnavi Sherala Music Player"""
 from tkinter import filedialog
 from tkinter import ttk
 import tkinter.messagebox
